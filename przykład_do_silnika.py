@@ -1,0 +1,1 @@
+tekst_start = "Trzy klejnoty dla elfów. Trzy klejnoty dla orków. Trzy klejnoty dla ludzi. Do podzialu dla królów. Ale tylko jeden, dla czarnego pana. Jestes wojownikiem. Musisz odnalezc zaginione klejnoty królestwa ludzi."
